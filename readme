@@ -1,0 +1,5 @@
+install requests that helps to fetch url
+pip install beautifulsoup4
+
+
+#if you want to write something or test the python you use command: python manage.py shell :this will give python interactive shell
